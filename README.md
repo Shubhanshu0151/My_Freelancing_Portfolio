@@ -1,1 +1,2 @@
-# My_Freelancing_Portfolio
+# Welcome to my digital space! I’m Shubhanshu, a passionate Android and web developer on a mission to craft seamless, high-performance applications. With expertise in Kotlin, Jetpack Compose, and front-end technologies, I bring ideas to life with creativity and precision.
+## Starting my freelancing journey, I'm excited to collaborate, innovate, and build next-level digital experiences. If you’re looking for a skilled developer who loves turning visions into reality, let’s connect and create something amazing together! 💡✨
